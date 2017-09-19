@@ -9,3 +9,6 @@ Chose colour scheme - https://coolors.co/d8dbe2-a9bcd0-4a6182-373f51-1b1b1e
 	
 Chose company name: Stone & Steel Realty
 
+Created File-Structure and Files
+
+ index.html -> Added meta, title, link and script tags/sources.
