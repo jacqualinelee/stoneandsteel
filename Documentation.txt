@@ -1,0 +1,11 @@
+Documentation / Change-log
+
+			20/09/2017
+
+
+Chose colour scheme - https://coolors.co/d8dbe2-a9bcd0-4a6182-373f51-1b1b1e
+
+	#d8dbe2, #a9bcd0, #4a6182, #373f51, #1b1b1e
+	
+Chose company name: Stone & Steel Realty
+
