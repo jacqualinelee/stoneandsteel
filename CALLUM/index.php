@@ -18,20 +18,28 @@
 
 <?php
 
-$host = "localhost";
+/*$host = "localhost";
 $uName = "admin";
 $PW = "";
 $DB = "phpAdminTest";
 
-$conn = mysqli_connect($host,$uName,$PW,$DB);
+$conn = mysqli_connect($host,$uName,$PW,$DB);*/
+
+
+				//Connect to database
+
+include 'php/connection.php';
 
                 // Check connection
-if (mysqli_connect_errno())
-{
-	echo "Failed to connect to MySQL: " . mysqli_connect_error();
-} else {
+if (mysqli_connect_errno()){
 
+	echo "Failed to connect to MySQL: " . mysqli_connect_error();
+
+} 
+
+else {	
 	
+	include 'php/adminDashboard.php';
 
 }
 
